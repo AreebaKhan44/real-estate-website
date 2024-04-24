@@ -79,7 +79,7 @@ const Footer = () => {
           </div>
           <div className="flex justify-center items-center p-2">
             {/* <p>5.2M satisfied customers</p> */}
-            <p>r.quershi278@gmail.com</p>
+            <p>rehan@hrsdubai.com</p>
             
           </div>
         </div>
@@ -91,13 +91,22 @@ const Footer = () => {
         <p className="capitalize text-[10px] sm:text-[13px] font-semibold leading-[25px] text-center text-bluePText dark:text-white">
           © 2024 Company. All Rights Reserved.
         </p>
-        <Link
+        {/* <Link
           href="https://www.figma.com/community/file/1216698613875563555/Company-One"
           target="_blank"
           className="capitalize text-[10px] sm:text-[13px] font-semibold leading-[25px] text-center text-bluePText hover:text-orange-500 dark:text-white"
         >
           Design by Areeba Khan
+        </Link> */}
+
+        <Link
+          href=""
+          target=""
+          className="capitalize text-[10px] sm:text-[13px] font-semibold leading-[25px] text-center text-bluePText hover:text-orange-500 dark:text-white"
+        >
+          Design by Areeba Khan
         </Link>
+        
         <div className="flex items-start p-4 gap-[57px]">
           <Link
             href="#"
