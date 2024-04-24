@@ -46,6 +46,7 @@ const Header = () => {
             className="py-2 text-2xl font-bold hover:text-orange-500"
           >
             HRS
+            <br />Dubai<br />
           </h1>
         </Link>
       </div>
