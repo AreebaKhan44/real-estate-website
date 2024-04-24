@@ -33,13 +33,22 @@ export default function About({
 
       <div className="relative justify-center items-center">
         <p className="font-medium text-base text-center mt-20  text-bluePText">
+          Welcome to HRS,&quot;where we invite you to embark on an enlightening journey through the vibrant tapestry of <br/> Dubai's primary and  secondary real estate  markets.<br />
+           With  a deep understanding of  investors' and end-users requirements,<br /> we offer unparalleled experiences, guiding  you through a landscape 
+            definned  by Innovation, luxury , and opportunity.&quot;<br />
+          
+        </p>
+      </div>
+
+      {/* <div className="relative justify-center items-center">
+        <p className="font-medium text-base text-center mt-20  text-bluePText">
           Real estate is &quot;property consisting of land and the buildings on
           it, along with its natural resources such as crops,
           <br /> minerals or water, immovable property of this nature; an
           interest vested in this (also) an item of real property,
           <br /> (more generally) buildings or housing in general.
         </p>
-      </div>
+      </div> */}
 
       <div className="flex flex-col sm:flex-row justify-center items-center mt-[50px] ml-[28px]">
         <div className="bg-white  py-35 px-10 h-[160px] w-[350px] mr-[30px] flex flex-col justify-center items-center rounded-[10px] shadow-md mb-5 dark:bg-slate-700">
@@ -50,7 +59,7 @@ export default function About({
             {cardSubText1}
           </p>
         </div>
-        <div className="bg-white py-35 px-10 h-[160px] w-[350px] mr-[30px] flex flex-col justify-center items-center rounded-[10px] shadow-md mb-5 dark:bg-slate-700">
+        {/* <div className="bg-white py-35 px-10 h-[160px] w-[350px] mr-[30px] flex flex-col justify-center items-center rounded-[10px] shadow-md mb-5 dark:bg-slate-700">
           <p className="font-medium text-3xl leading-[50px] text-blueCardTitle capitalize dark:text-gray-100">
             {cardTitle2}
           </p>
@@ -65,7 +74,7 @@ export default function About({
           <p className="text-sm leading-8 text-center text-blueCardSubTitle dark:text-white">
             {cardSubText3}
           </p>
-        </div>
+        </div> */}
       </div>
     </div>
   );
