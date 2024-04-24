@@ -41,7 +41,7 @@ const Services = () => {
           <div className="bg-white h-[120px] w-[120px] mr-[30px] flex flex-col justify-center items-center rounded-[120px] shadow-xl p-[10px] gap-[10px] mb-5 dark:bg-gray-700">
             <Image src={houseIcon} alt="house" className="w-11 h-10" />
             <p className="font-bold text-sm leading-6  text-center text-blueCardTitle dark:text-gray-200 ">
-              House
+              Buy
             </p>
           </div>
         </div>
@@ -54,7 +54,7 @@ const Services = () => {
               className="w-[45px] h-[45px]"
             />
             <p className="font-bold text-sm leading-6  text-center text-blueCardTitle dark:text-gray-200 ">
-              Apartment
+              Sell
             </p>
           </div>
         </div>
@@ -63,7 +63,7 @@ const Services = () => {
           <div className="bg-white h-[120px] w-[120px] sm:w-[166px] mr-[30px] flex flex-col justify-center items-center rounded-[120px] shadow-xl p-[10px] gap-[10px] mb-5 dark:bg-gray-700">
             <Image src={officeIcon} alt="office" className="w-10 h-10" />
             <p className="font-bold text-sm leading-6  text-center text-blueCardTitle dark:text-gray-200 ">
-              Office
+              Off Plan
             </p>
           </div>
         </div>
@@ -72,7 +72,7 @@ const Services = () => {
           <div className="bg-white h-[120px] w-[120px] mr-[30px] flex flex-col justify-center items-center rounded-[120px] shadow-xl p-[10px] gap-[10px] mb-5 dark:bg-gray-700">
             <Image src={warehouseIcon} alt="warehouse" className="w-10 h-10" />
             <p className="font-bold text-sm leading-6  text-center text-blueCardTitle dark:text-gray-200 ">
-              Warehouse
+              Rent
             </p>
           </div>
         </div>
@@ -81,7 +81,7 @@ const Services = () => {
           <div className="bg-white h-[120px] w-[120px] mr-[30px] flex flex-col justify-center items-center rounded-[120px] shadow-xl p-[10px] gap-[10px] mb-5 dark:bg-gray-700">
             <Image src={parkingIcon} alt="parking" className="w-[26px] h-11" />
             <p className="font-bold text-sm leading-6  text-center text-blueCardTitle dark:text-gray-200 ">
-              Parking
+              Commercial
             </p>
           </div>
         </div>
