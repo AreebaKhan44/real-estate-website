@@ -49,10 +49,10 @@ const Review = () => {
             />
             <div className="flex flex-col justify-center items-start">
               <p className="font-bold text-sm leading-[30px] text-cardText capitalize  dark:text-white">
-                herbert lindsey
+                Shaikh Hammad
               </p>
               <p className="font-semibold text-xs text-blueCardSubTitle leading-5">
-                New York, USA
+                Dubai, UAE
               </p>
             </div>
           </div>
@@ -61,7 +61,7 @@ const Review = () => {
         <div className=" flex flex-col mb-5">
           <div className="w-[350px] h-[185px] flex items-start p-[30px] gap-[10px] bg-white  dark:bg-slate-700 shadow-md rounded-[10px] ml-[30px]  ">
             <p className=" font-semibold text-[13px] leading-[25px] text-bluePText dark:text-white">
-              A gentleman from New York discovered what he calls an “oversight”
+              A gentleman from Dubai discovered what he calls an “oversight”
               on the part of 99.9% of all marketers that allows him to get
               otherwise paid-for advertising at Google as well as all other
               search engines.
@@ -75,10 +75,10 @@ const Review = () => {
             />
             <div className="flex flex-col justify-center items-start">
               <p className="font-bold text-sm leading-[30px] text-cardText capitalize  dark:text-white">
-                Noah Russell
+                Shaikh Majid
               </p>
               <p className="font-semibold text-xs text-blueCardSubTitle leading-5">
-                New York, USA
+                Dubai,UAE
               </p>
             </div>
           </div>
@@ -99,10 +99,10 @@ const Review = () => {
             />
             <div className="flex flex-col justify-center items-start">
               <p className="font-bold text-sm leading-[30px] text-cardText capitalize  dark:text-white">
-                Nellie Griffith
+                Hania Daniyal
               </p>
               <p className="font-semibold text-xs text-blueCardSubTitle leading-5">
-                New York, USA
+                Dubai, UAE
               </p>
             </div>
           </div>
