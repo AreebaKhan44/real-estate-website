@@ -11,7 +11,7 @@ const Footer = () => {
       <div className="sm:flex justify-center items-center py-[20px] sm:py-[90px] px-2 ">
         {/* text  */}
         <p className="text-2xl text-center leading-[30px] font-bold text-[#4D5E80] capitalize mb-10 sm:mb-0 dark:text-white">
-          constructor
+          Homes Reality Solution
         </p>
         {/* menu  */}
         <div className="relative flex gap-5 justify-center items-centers  sm:w-[450px] ">
@@ -78,7 +78,9 @@ const Footer = () => {
             />
           </div>
           <div className="flex justify-center items-center p-2">
-            <p>5.2M satisfied customers</p>
+            {/* <p>5.2M satisfied customers</p> */}
+            <p>r.quershi278@gmail.com</p>
+            
           </div>
         </div>
       </div>
@@ -87,14 +89,14 @@ const Footer = () => {
 
       <div className="relative py-0 px=[340px] border-t-2 border-solid border-[#EDEFF2] flex items-center justify-between gap-5">
         <p className="capitalize text-[10px] sm:text-[13px] font-semibold leading-[25px] text-center text-bluePText dark:text-white">
-          © 2023 Company. All Rights Reserved.
+          © 2024 Company. All Rights Reserved.
         </p>
         <Link
           href="https://www.figma.com/community/file/1216698613875563555/Company-One"
           target="_blank"
           className="capitalize text-[10px] sm:text-[13px] font-semibold leading-[25px] text-center text-bluePText hover:text-orange-500 dark:text-white"
         >
-          Design by Spline One
+          Design by Areeba Khan
         </Link>
         <div className="flex items-start p-4 gap-[57px]">
           <Link
