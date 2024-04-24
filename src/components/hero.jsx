@@ -22,23 +22,28 @@ const Hero = ({ address, phone, email }) => {
       />
       <div className="w-full h-screen relative ">
         <div className="relative h-screen text-center flex flex-col justify-center items-center">
-          <button className="hidden lg:block bg-orange-600 hover:bg-orange-500 px-2 py-1 rounded-2xl text-white h-8 w-28 font-black text-xs uppercase cursor-pointer">
-            Real Estate
-          </button>
+          {/* <button className="hidden lg:block bg-orange-600 hover:bg-orange-500 px-2 py-1 rounded-2xl text-white h-8 w-28 font-black text-xs uppercase cursor-pointer">
+            Homes Reality Solution
+          </button> */}
+
+<h6 className="font-normal text-4xl text-center mt-10 text-white capitalize">
+            Homes Reality Solution
+          </h6>
+
           <h1 className="font-normal text-7xl text-center mt-24 text-white capitalize">
             find real estate
             <br /> that suits you
           </h1>
           {/* Icons and Text under Heading */}
           <div className="hidden sm:flex mt-24 justify-center items-center">
-            <div className="flex mr-11 ">
+            {/* <div className="flex mr-11 ">
               <Image
                 src={arrowIcon}
                 alt="arrow icon"
                 className="w-5 h-5 mx-9 self-center"
               />
               <p className="text-white text-xl py-2 ">{address}</p>
-            </div>
+            </div> */}
 
             <div className="flex ml-20 mr-20">
               <Image
